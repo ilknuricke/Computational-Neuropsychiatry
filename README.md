@@ -40,6 +40,8 @@ Labs and Researchers around the world
 
   - Hugh Garavan @ University of Vermont, NERVE Lab.: https://www.uvm.edu/medicine/psychiatry/?Page=profile.php&bioID=23236
 
+  - Anticevic Lab. @ Yale School of Medicine: http://anticeviclab.yale.edu/
+
 
 Journals
 --------
@@ -47,6 +49,12 @@ Journals
 * [Computational Psychiatry](http://computationalpsychiatry.org/#home): First journal dedicated to this field
 
 
+Conferences
+----------
+
+* 2016
+
+    - CINP World Congress of Neuropscychopharmacologyi, July 3-5 South Korea: https://www.cinp2016.com/congress/congress_3.asp?sMenu=cog3
 
 Courses and Training
 -------------------
