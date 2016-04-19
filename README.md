@@ -6,10 +6,8 @@ Introductory Material
 --------------------
 
   * Videos
-    https://youtu.be/zQEwZRY1Nds
-    Computational Neuropsychiatry
-    Video abstract for the paper: Great Expectations: Using Whole-Brain Computational Connectomics for Understanding Neuropsychiatric Disorders
-    Link to the paper: http://www.cell.com/neuron/abstract/S0896-6273(14)00735-1#
+    [Video abstract for the paper: Great Expectations: Using Whole-Brain Computational Connectomics for Understanding Neuropsychiatric Disorders]https://youtu.be/zQEwZRY1Nds
+    [Link to the paper] http://www.cell.com/neuron/abstract/S0896-6273(14)00735-1#
 
 Labs around the world
 --------------------
