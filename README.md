@@ -1,5 +1,5 @@
 # Computational-Neuropscyhiatry
-Resources on Computational Neuropscyhiatry
+Resources on Computational Neuropscyhiatry (or Computational Pscyhiatry)
 
 
 Introductory Material
@@ -13,7 +13,13 @@ Introductory Material
 Labs around the world
 --------------------
 
-* The Hebrew University of Jerusalem: http://mind.huji.ac.il/
+*Israel
+  - The Hebrew University of Jerusalem: http://mind.huji.ac.il/
+
+* USA
+  - Virginia Tech. Carillion School of Medicine and Research Institute: http://labs.vtc.vt.edu/cpu/
+
+  - Center for BrainHealth, University of Texas at Dallas: http://www.neurocpu.com/
 
 
 Misc
