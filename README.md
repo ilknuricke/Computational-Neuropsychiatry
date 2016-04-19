@@ -20,6 +20,8 @@ Labs and Researchers around the world
 -------------------------------------
 
 * England
+  
+  - Peggy Series Lab,Institute for Adaptive and Neural Computation,The University of Edinburgh:  http://homepages.inf.ed.ac.uk/pseries/people.htm
 
 
 * Germany
