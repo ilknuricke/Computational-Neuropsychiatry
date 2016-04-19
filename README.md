@@ -41,6 +41,8 @@ Labs and Researchers around the world
   - Hugh Garavan @ University of Vermont, NERVE Lab.: https://www.uvm.edu/medicine/psychiatry/?Page=profile.php&bioID=23236
 
   - Anticevic Lab. @ Yale School of Medicine: http://anticeviclab.yale.edu/
+  
+  - Laboratory for Neural Computation and Cognition, Brown University: https://sites.google.com/a/brown.edu/lncc/
 
 
 Journals
