@@ -23,6 +23,7 @@ Labs and Researchers around the world
   
   - Peggy Series Lab,Institute for Adaptive and Neural Computation,The University of Edinburgh:  http://homepages.inf.ed.ac.uk/pseries/people.htm
 
+  - Crockett Lab @ Department of Experimental Psychology, University of Oxford: http://www.crockettlab.org/
 
 * Germany
   
@@ -35,6 +36,10 @@ Labs and Researchers around the world
 * Israel
 
   - The Hebrew University of Jerusalem: http://mind.huji.ac.il/
+
+* Switzerland
+
+  - Quentin Huys @ Translational Neuromodeling Unit, ETH Zürich and University of Zürich: https://www.quentinhuys.com/
 
 * USA
 
