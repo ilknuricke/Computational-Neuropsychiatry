@@ -10,8 +10,8 @@ Introductory/Review Material
     - [Video abstract: Great Expectations: Using Whole-Brain Computational Connectomics for Understanding Neuropsychiatric Disorders](https://youtu.be/zQEwZRY1Nds),
     [Link to the paper] (http://www.cell.com/neuron/abstract/S0896-6273(14)00735-1#)
 
-Labs around the world
---------------------
+Labs and Researchers around the world
+-------------------------------------
 
 * England
 
@@ -35,6 +35,8 @@ Labs around the world
   - Center for BrainHealth, University of Texas at Dallas: http://www.neurocpu.com/
   
   - Computational Lab. of Cortical Dynamics (NYU): http://www.cns.nyu.edu/wanglab/
+
+  - Hugh Garavan @ University of Vermont, NERVE Lab.: https://www.uvm.edu/medicine/psychiatry/?Page=profile.php&bioID=23236
 
 
 Journals
