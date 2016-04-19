@@ -5,7 +5,7 @@ Resources on Computational Neuropscyhiatry
 Introductory Material
 --------------------
 
-    Videos
+  Videos
     https://youtu.be/zQEwZRY1Nds
     Computational Neuropsychiatry
     Video abstract for the paper: Great Expectations: Using Whole-Brain Computational Connectomics for Understanding Neuropsychiatric Disorders
