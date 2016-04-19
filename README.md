@@ -5,7 +5,7 @@ Resources on Computational Neuropscyhiatry
 Introductory Material
 --------------------
 
-  Videos
+  *Videos
     https://youtu.be/zQEwZRY1Nds
     Computational Neuropsychiatry
     Video abstract for the paper: Great Expectations: Using Whole-Brain Computational Connectomics for Understanding Neuropsychiatric Disorders
@@ -14,13 +14,13 @@ Introductory Material
 Labs around the world
 --------------------
 
-The Hebrew University of Jerusalem: http://mind.huji.ac.il/
+*The Hebrew University of Jerusalem: http://mind.huji.ac.il/
 
 
 Misc
 ----
 
-   Videos
+  * Videos
           https://youtu.be/R4c1-vCVwiE
           Functional Neuropsychiatry - Functional Forum January 2016
           With the massive increases in neurodegenerative diseases like Alzheimer’s and Parkinson’s, is there any hope for stemming this epidemic?
