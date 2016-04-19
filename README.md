@@ -13,10 +13,12 @@ Introductory Material
 Labs around the world
 --------------------
 
-*Israel
+* Israel
+
   - The Hebrew University of Jerusalem: http://mind.huji.ac.il/
 
 * USA
+
   - Virginia Tech. Carillion School of Medicine and Research Institute: http://labs.vtc.vt.edu/cpu/
 
   - Center for BrainHealth, University of Texas at Dallas: http://www.neurocpu.com/
