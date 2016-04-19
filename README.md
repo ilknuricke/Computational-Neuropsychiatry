@@ -21,7 +21,7 @@ Misc
 
   * Videos
 
-        * [Functional Neuropsychiatry - Functional Forum January 2016](https://youtu.be/R4c1-vCVwiE)
+        - [Functional Neuropsychiatry - Functional Forum January 2016](https://youtu.be/R4c1-vCVwiE)
           With the massive increases in neurodegenerative diseases like Alzheimer’s and Parkinson’s, is there any hope for stemming this epidemic?
           New science is showing that a proactive approach to brain health can preventive and in some cases, reverse chronic conditions.
 
