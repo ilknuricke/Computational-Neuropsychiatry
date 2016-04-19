@@ -25,7 +25,7 @@ Labs around the world
 
 
 Courses and Training
- -------------------
+-------------------
 
 * [London Computational Psychiatry Course](https://sites.google.com/site/comppsychcourse/home) Materials from the 2014 & 2015 runs are available
 
