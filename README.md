@@ -7,6 +7,8 @@ Introductory/Review Material
 
   * Videos
 
+    - [Why psychiatry needs computational models of the brain | John Murray | TEDxAmherst] (https://youtu.be/8G83r_SUDXE)
+   
     - [Video abstract: Great Expectations: Using Whole-Brain Computational Connectomics for Understanding Neuropsychiatric Disorders](https://youtu.be/zQEwZRY1Nds),
     [Link to the paper] (http://www.cell.com/neuron/abstract/S0896-6273(14)00735-1#)
 
