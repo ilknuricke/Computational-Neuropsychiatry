@@ -61,6 +61,8 @@ Journals
 
 * [Computational Psychiatry](http://computationalpsychiatry.org/#home): First journal dedicated to this field
 
+* [8th International Congress on Psychopharmacology](http://www.psychopharmacology2016.org/kurs.php)
+
 
 Conferences
 ----------
