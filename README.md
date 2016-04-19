@@ -14,6 +14,8 @@ Introductory/Review Material
     - [Video abstract: Great Expectations: Using Whole-Brain Computational Connectomics for Understanding Neuropsychiatric Disorders](https://youtu.be/zQEwZRY1Nds),
     [Link to the paper] (http://www.cell.com/neuron/abstract/S0896-6273(14)00735-1#)
 
+    -[Learning about Brain: Sparse Models and Beyond](https://youtu.be/mSklD5oEv0U)
+
 Labs and Researchers around the world
 -------------------------------------
 
