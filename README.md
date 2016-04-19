@@ -13,6 +13,10 @@ Introductory Material
 Labs around the world
 --------------------
 
+* Germany
+  
+  - Max Planck UCL Centre for Computational Psychiatry and Ageing Research: https://www.mpib-berlin.mpg.de/en/research/max-planck-ucl-centre
+
 * Israel
 
   - The Hebrew University of Jerusalem: http://mind.huji.ac.il/
