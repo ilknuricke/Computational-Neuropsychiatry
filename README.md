@@ -54,7 +54,7 @@ Conferences
 
 * 2016
 
-    - CINP World Congress of Neuropscychopharmacologyi, July 3-5 South Korea: https://www.cinp2016.com/congress/congress_3.asp?sMenu=cog3
+    - CINP World Congress of Neuropscychopharmacology, July 3-5 South Korea: https://www.cinp2016.com/congress/congress_3.asp?sMenu=cog3
 
 Courses and Training
 -------------------
