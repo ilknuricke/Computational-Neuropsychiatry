@@ -2,7 +2,7 @@
 Resources on Computational Neuropscyhiatry (or Computational Pscyhiatry)
 
 
-Introductory Material
+Introductory/Review Material
 --------------------
 
   * Videos
