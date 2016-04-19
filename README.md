@@ -28,6 +28,13 @@ Labs around the world
   - Center for BrainHealth, University of Texas at Dallas: http://www.neurocpu.com/
 
 
+Journals
+--------
+
+* [Computational Psychiatry](http://computationalpsychiatry.org/#home): First journal dedicated to this field
+
+
+
 Courses and Training
 -------------------
 
