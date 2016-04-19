@@ -7,6 +7,8 @@ Introductory/Review Material
 
   * Videos
 
+    - [Computational Psychiatry: Towards Clinical Applications of Machine Learning](https://youtu.be/ZWqKIf1lp60)
+ 
     - [Why psychiatry needs computational models of the brain | John Murray | TEDxAmherst] (https://youtu.be/8G83r_SUDXE)
    
     - [Video abstract: Great Expectations: Using Whole-Brain Computational Connectomics for Understanding Neuropsychiatric Disorders](https://youtu.be/zQEwZRY1Nds),
