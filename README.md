@@ -61,8 +61,6 @@ Journals
 
 * [Computational Psychiatry](http://computationalpsychiatry.org/#home): First journal dedicated to this field
 
-* [8th International Congress on Psychopharmacology](http://www.psychopharmacology2016.org/kurs.php)
-
 
 Conferences
 ----------
@@ -70,6 +68,8 @@ Conferences
 * 2016
 
     - CINP World Congress of Neuropscychopharmacology, July 3-5 South Korea: https://www.cinp2016.com/congress/congress_3.asp?sMenu=cog3
+   
+    - [8th International Congress on Psychopharmacology](http://www.psychopharmacology2016.org/kurs.php)
 
 Courses and Training
 -------------------
