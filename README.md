@@ -13,9 +13,16 @@ Introductory/Review Material
 Labs around the world
 --------------------
 
+* England
+
+
 * Germany
   
   - Max Planck UCL Centre for Computational Psychiatry and Ageing Research: https://www.mpib-berlin.mpg.de/en/research/max-planck-ucl-centre
+
+* Ireland
+  
+  - Rob Whelan @ UCD, Dublin: http://www.ucd.ie/research/people/psychology/drrobertwhelan/
 
 * Israel
 
@@ -26,6 +33,8 @@ Labs around the world
   - Virginia Tech. Carillion School of Medicine and Research Institute: http://labs.vtc.vt.edu/cpu/
 
   - Center for BrainHealth, University of Texas at Dallas: http://www.neurocpu.com/
+  
+  - Computational Lab. of Cortical Dynamics (NYU): http://www.cns.nyu.edu/wanglab/
 
 
 Journals
