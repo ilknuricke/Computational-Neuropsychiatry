@@ -50,13 +50,13 @@ Labs and Researchers around the world
      - Computational Lab. of Cortical Dynamics (NYU), New York : http://www.cns.nyu.edu/wanglab/
 
      - Hugh Garavan @ University of Vermont, NERVE Lab.,  Vermont: https://www.uvm.edu/medicine/psychiatry/?Page=profile.php&bioID=23236
-       **NERVE Lab. specializes in fMRI to study substance abuse. They are linked to the [Imagen Consortium](www.imagen-europe.com/en/consortium.ph) that conducts research on mental health and risk taking behavior in teenagers. They also collaborate with Whelan Lab @ UCD,Dublin**
+       *NERVE Lab. specializes in fMRI to study substance abuse. They are linked to the [Imagen Consortium](www.imagen-europe.com/en/consortium.ph) that conducts research on mental health and risk taking behavior in teenagers. They also collaborate with Whelan Lab @ UCD,Dublin*
    
      - Laboratory for Neural Computation and Cognition, Brown University,  Rhode Island : https://sites.google.com/a/brown.edu/lncc/
 
      - Virginia Tech. Carillion School of Medicine and Research Institute, Virginia: http://labs.vtc.vt.edu/cpu/
    
-     - Anticevic Lab. @ Yale School of Medicine, Connecticuti : http://anticeviclab.yale.edu/ **Their research focuses on schizophrenia, bipolar illness and addiction**
+     - Anticevic Lab. @ Yale School of Medicine, Connecticuti : http://anticeviclab.yale.edu/ *Their research focuses on schizophrenia, bipolar illness and addiction*
 
   - Center for BrainHealth, University of Texas at Dallas, Texas: http://www.neurocpu.com/
   
