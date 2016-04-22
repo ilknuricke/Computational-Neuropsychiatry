@@ -42,19 +42,23 @@ Labs and Researchers around the world
   - Quentin Huys @ Translational Neuromodeling Unit, ETH Zürich and University of Zürich: https://www.quentinhuys.com/
 
 * USA
+ 
+  - East Coast
+
+     - Rutgers-Princeton Center for Computational Cognitive Neuropsychiatry, New Jersey : https://ccnp.princeton.edu/about-ccnp/
+
+     - Computational Lab. of Cortical Dynamics (NYU), New York : http://www.cns.nyu.edu/wanglab/
+
+     - Hugh Garavan @ University of Vermont, NERVE Lab.,  Vermont: https://www.uvm.edu/medicine/psychiatry/?Page=profile.php&bioID=23236
+   
+     - Laboratory for Neural Computation and Cognition, Brown University,  Rhode Island : https://sites.google.com/a/brown.edu/lncc/
 
   - Virginia Tech. Carillion School of Medicine and Research Institute: http://labs.vtc.vt.edu/cpu/
 
-  - Center for BrainHealth, University of Texas at Dallas: http://www.neurocpu.com/
+  - Center for BrainHealth, University of Texas at Dallas, Texas: http://www.neurocpu.com/
   
-  - Computational Lab. of Cortical Dynamics (NYU): http://www.cns.nyu.edu/wanglab/
-
-  - Hugh Garavan @ University of Vermont, NERVE Lab.: https://www.uvm.edu/medicine/psychiatry/?Page=profile.php&bioID=23236
-
   - Anticevic Lab. @ Yale School of Medicine: http://anticeviclab.yale.edu/
   
-  - Laboratory for Neural Computation and Cognition, Brown University: https://sites.google.com/a/brown.edu/lncc/
-
 
 Journals
 --------
@@ -69,7 +73,7 @@ Conferences
 
     - CINP World Congress of Neuropscychopharmacology, July 3-5 South Korea: https://www.cinp2016.com/congress/congress_3.asp?sMenu=cog3
    
-    - [8th International Congress on Psychopharmacology](http://www.psychopharmacology2016.org/kurs.php)
+    - [8th International Congress on Psychopharmacology,April 20-24, Antalya, Turkey](http://www.psychopharmacology2016.org)
 
 Courses and Training
 -------------------
