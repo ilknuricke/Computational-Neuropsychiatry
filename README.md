@@ -56,7 +56,7 @@ Labs and Researchers around the world
 
      - Virginia Tech. Carillion School of Medicine and Research Institute, Virginia: http://labs.vtc.vt.edu/cpu/
    
-     - Anticevic Lab. @ Yale School of Medicine: http://anticeviclab.yale.edu/
+     - Anticevic Lab. @ Yale School of Medicine: http://anticeviclab.yale.edu/ *Their research focuses on schizophrenia, bipolar illness and addiction*
 
   - Center for BrainHealth, University of Texas at Dallas, Texas: http://www.neurocpu.com/
   
