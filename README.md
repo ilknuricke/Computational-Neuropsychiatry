@@ -73,7 +73,7 @@ Conferences
 
     - CINP World Congress of Neuropscychopharmacology, July 3-5 South Korea: https://www.cinp2016.com/congress/congress_3.asp?sMenu=cog3
    
-    - [8th International Congress on Psychopharmacology,April 20-24, Antalya, Turkey](http://www.psychopharmacology2016.org)
+    - 8th International Congress on Psychopharmacology,April 20-24, Antalya, Turkey: http://www.psychopharmacology2016.org
 
 Courses and Training
 -------------------
