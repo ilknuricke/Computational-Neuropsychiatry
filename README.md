@@ -50,8 +50,7 @@ Labs and Researchers around the world
      - Computational Lab. of Cortical Dynamics (NYU), New York : http://www.cns.nyu.edu/wanglab/
 
      - Hugh Garavan @ University of Vermont, NERVE Lab.,  Vermont: https://www.uvm.edu/medicine/psychiatry/?Page=profile.php&bioID=23236
-   
-      *NERVE Lab. specializes in substance abuse. They are linked to the [Imagen Consortium](www.imagen-europe.com/en/consortium.ph) that conducts research on mental health and risk taking behavior in teenagers.*
+       *NERVE Lab. specializes in substance abuse. They are linked to the [Imagen Consortium](www.imagen-europe.com/en/consortium.ph) that conducts research on mental health and risk taking behavior in teenagers.*
    
      - Laboratory for Neural Computation and Cognition, Brown University,  Rhode Island : https://sites.google.com/a/brown.edu/lncc/
 
