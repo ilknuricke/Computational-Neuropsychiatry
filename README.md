@@ -9,12 +9,12 @@ Introductory/Review Material
 
     - [Computational Psychiatry: Towards Clinical Applications of Machine Learning](https://youtu.be/ZWqKIf1lp60)
  
-    - [Why psychiatry needs computational models of the brain | John Murray | TEDxAmherst] (https://youtu.be/8G83r_SUDXE)
-   
     - [Video abstract: Great Expectations: Using Whole-Brain Computational Connectomics for Understanding Neuropsychiatric Disorders](https://youtu.be/zQEwZRY1Nds),
     [Link to the paper] (http://www.cell.com/neuron/abstract/S0896-6273(14)00735-1#)
 
     - [Learning about Brain: Sparse Models and Beyond](https://youtu.be/mSklD5oEv0U) 
+
+    - [Why psychiatry needs computational models of the brain | John Murray | TEDxAmherst] (https://youtu.be/8G83r_SUDXE)
 
 Labs and Researchers around the world
 -------------------------------------
@@ -56,7 +56,7 @@ Labs and Researchers around the world
 
      - Virginia Tech. Carillion School of Medicine and Research Institute, Virginia: http://labs.vtc.vt.edu/cpu/
    
-     - Anticevic Lab. @ Yale School of Medicine, Connecticuti : http://anticeviclab.yale.edu/ *Their research focuses on schizophrenia, bipolar illness and addiction*
+     - Anticevic Lab. @ Yale School of Medicine, Connecticut: http://anticeviclab.yale.edu/ *Their research focuses on schizophrenia, bipolar illness and addiction*
 
   - Center for BrainHealth, University of Texas at Dallas, Texas: http://www.neurocpu.com/
   
