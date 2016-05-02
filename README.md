@@ -82,4 +82,4 @@ Courses and Training
 
 * [London Computational Psychiatry Course](https://sites.google.com/site/comppsychcourse/home) Materials from the 2014 & 2015 runs are available
 
-
+* [ETH Zurich Computational Pscyhiatry Course](http://www.translationalneuromodeling.org/cpcourse/) Materials from the 2015 run are available
