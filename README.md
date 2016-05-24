@@ -1,5 +1,5 @@
-# Computational-Neuropscyhiatry
-Resources on Computational Neuropscyhiatry (or Computational Pscyhiatry)
+# Computational-Neuropsychiatry
+Resources on Computational Neuropsychiatry (or Computational Psychiatry)
 
 
 Introductory/Review Material
@@ -73,7 +73,7 @@ Related Conferences
 
 * 2016
 
-    - CINP World Congress of Neuropscychopharmacology, July 3-5 South Korea: https://www.cinp2016.com/congress/congress_3.asp?sMenu=cog3
+    - CINP World Congress of Neuropsycchopharmacology, July 3-5 South Korea: https://www.cinp2016.com/congress/congress_3.asp?sMenu=cog3
    
     - 8th International Congress on Psychopharmacology,April 20-24, Antalya, Turkey: http://www.psychopharmacology2016.org
 
