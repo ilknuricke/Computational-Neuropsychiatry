@@ -80,8 +80,6 @@ Related Conferences
 Courses and Training
 -------------------
 
-* [London Computational Psychiatry Course](https://sites.google.com/site/comppsychcourse/home) Materials from the 2014 & 2015 runs are available
+* [ETH Zurich Computational Pscyhiatry Course](http://www.translationalneuromodeling.org/cpcourse/) Materials from the 2015-2018 runs are available
 
-* [ETH Zurich Computational Pscyhiatry Course](http://www.translationalneuromodeling.org/cpcourse/) Materials from the 2015 run are available
-
-* [New York City Computational Psychiatry Course](https://www.cpcourse.org/) Materials from 2019 run is available [here](https://drive.google.com/drive/folders/1yxevQ7LIXS117ewLPzVTa0vPx4U5EiBk)
+* [London/New York City Computational Psychiatry Courses](https://www.cpcourse.org/) Materials from 2014-2018 runs are available [2019 slides available here](https://drive.google.com/drive/folders/1yxevQ7LIXS117ewLPzVTa0vPx4U5EiBk)
