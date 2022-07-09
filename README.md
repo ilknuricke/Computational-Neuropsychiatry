@@ -84,4 +84,4 @@ Courses and Training
 
 * [London/New York City Computational Psychiatry Courses](https://www.cpcourse.org/) Materials from 2014-2018 runs are available [2019 slides available here](https://drive.google.com/drive/folders/1yxevQ7LIXS117ewLPzVTa0vPx4U5EiBk)
 
-* [PSY 1451: Debugging the Brain: Computational Approaches to Mental Dysfunction @ Harvard] (https://canvas.harvard.edu/courses/60230)
+* [PSY 1451: Debugging the Brain: Computational Approaches to Mental Dysfunction @ Harvard](https://canvas.harvard.edu/courses/60230)
